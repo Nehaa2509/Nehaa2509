@@ -126,13 +126,13 @@ I'm a **B.E. Information Technology** graduate from Apollo Institute of Engineer
 ### 🤝 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/sneha-patel" target="_blank">
+  <a href="www.linkedin.com/in/sneha-rudani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Nehaa2509" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:sneha@email.com" target="_blank">
+  <a href="mailto:sneharr25@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
